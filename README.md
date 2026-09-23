@@ -1,5 +1,3 @@
-## Hello
-
 Computer Science student at Laval University
 Passionate about cybersecurity
 Currently learning: Java · Python · Security
